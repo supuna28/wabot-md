@@ -140,21 +140,21 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedContentText: text.trim(),
            hydratedButtons: [{
              urlButton: {
-               displayText: 'Source Code',
-               url: 'https://github.com/ilmanhdyt/ShiraoriBOT-MD'
+               displayText: 'hi',
+               url: 'hi'
              }
 
            },
                {
              callButton: {
                displayText: 'Call Owner',
-               phoneNumber: '+62 813-5104-7727'
+               phoneNumber: '+62'
              }
            },
                {
              quickReplyButton: {
-               displayText: 'Owner',
-               id: '.owner'
+               displayText: 'hi',
+               id: '.menu'
              }
 
            },
