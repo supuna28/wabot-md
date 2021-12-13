@@ -1,4 +1,3 @@
-let limit = 30
 
 let yts = require('yt-search')
 
